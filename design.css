@@ -1,0 +1,9 @@
+iframe {
+    width: 90%;
+    height: 300px;
+}
+
+body {
+    background: linear-gradient(lightgreen, purple);
+    min-height: 100vh;
+}
